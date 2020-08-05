@@ -1,4 +1,14 @@
-### Hi there 👋
+# Mhayk Whandson
+
+[![Twitter Badge](https://img.shields.io/badge/-@mhayk-2d81cb?style=flat-square&labelColor=3fb0ff&logo=twitter&logoColor=white&link=https://twitter.com/mhayk)](https://twitter.com/mhayk)
+[![Linkedin Badge](https://img.shields.io/badge/-Mhayk%20Whandson-2d81cb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhayk/)](https://www.linkedin.com/in/mhayk/)
+[![Gmail Badge](https://img.shields.io/badge/-hi@mhayk.com-2d81cb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:hi@mhayk.com)
+
+Passionate about TypeScript, JavaScript, ReactJS, React Native, Node.js and the entire ecosystem around these technologies.
+
+Enthusiast of the best web & mobile development technologies.
+
+A fullstack developer that has seen the bare metal coding Linux kernel drivers in C and multi-plataform desktop apps in C++/Qt5. Check below my GitHub freebies.
 
 <!--
 **mhayk/mhayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
