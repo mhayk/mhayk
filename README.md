@@ -10,7 +10,7 @@ Passionate about TypeScript, JavaScript, ReactJS, React Native, Node.js and the 
 
 Enthusiast of the best web & mobile development technologies.
 
-A fullstack developer that has seen the bare metal coding Linux kernel drivers in C and multi-plataform desktop apps in C++/Qt5. Check below my GitHub freebies.
+A fullstack developer that has seen the bare metal coding Linux kernel drivers in C and multi-plataform desktop apps in C++/Qt[4,5 and 6]. Check below my GitHub freebies.
 
 <!--
 **mhayk/mhayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
