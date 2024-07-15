@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mhayk%20Whandson-2d81cb?style=flat-square&labelColor=3fb0ff&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhayk/)](https://www.linkedin.com/in/mhayk/)
 [![Gmail Badge](https://img.shields.io/badge/-hi@mhayk.com-2d81cb?style=flat-square&labelColor=3fb0ff&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:hi@mhayk.com)
 
-Passionate about TypeScript, JavaScript, ReactJS, React Native, Node.js and the entire ecosystem around these technologies.
+Passionate about Go, TypeScript, JavaScript, ReactJS, React Native, Node.js and the entire ecosystem around these technologies.
 
 Enthusiast of the best web & mobile development technologies.
 
