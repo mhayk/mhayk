@@ -1,10 +1,10 @@
 # Mhayk Whandson
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mhayk/mhayk)
+![Profile views](https://komarev.com/ghpvc/?username=mhayk&label=Profile%20views&color=blue&style=flat)
 
-[![Twitter Badge](https://img.shields.io/badge/-@mhayk-2d81cb?style=flat-square&labelColor=3fb0ff&logo=twitter&logoColor=white&link=https://twitter.com/mhayk)](https://twitter.com/mhayk)
-[![Linkedin Badge](https://img.shields.io/badge/-Mhayk%20Whandson-2d81cb?style=flat-square&labelColor=3fb0ff&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhayk/)](https://www.linkedin.com/in/mhayk/)
-[![Gmail Badge](https://img.shields.io/badge/-hi@mhayk.com-2d81cb?style=flat-square&labelColor=3fb0ff&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:hi@mhayk.com)
+[![X](https://img.shields.io/badge/X-@mhayk-111111?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mhayk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mhayk%20Whandson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhayk/)
+[![Email](https://img.shields.io/badge/Email-hi@mhayk.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@mhayk.com)
 
 Passionate about Go, TypeScript, JavaScript, ReactJS, React Native, Node.js and the entire ecosystem around these technologies.
 
