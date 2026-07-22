@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mhayk%20Whandson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhayk/)
 [![Email](https://img.shields.io/badge/Email-hi@mhayk.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@mhayk.com)
 
-Passionate about Go, TypeScript, JavaScript, ReactJS, React Native, Node.js and the entire ecosystem around these technologies.
+Passionate about Go, TypeScript, JavaScript, NestJS, ReactJS, React Native, Node.js and the entire ecosystem around these technologies.
 
 Enthusiast of the best web & mobile development technologies.
 
